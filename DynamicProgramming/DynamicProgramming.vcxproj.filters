@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Problems">
+      <UniqueIdentifier>{6b79eb78-5a4b-42eb-8eb4-86e1fbf360c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Problems\Basic">
+      <UniqueIdentifier>{80476e99-8ac8-4fc9-ae53-1315b2c017de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Interview">
+      <UniqueIdentifier>{ed340f9d-3a82-4d6b-8de1-cf83719e7a81}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DPBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="001_UglyNumbers.cpp">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="002_Fibonacci.cpp">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="003_Catalan.cpp">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="004_BellNumbers.cpp">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="005_BinomialCoefficient.cpp">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="006_PermutationCoefficient.cpp">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="007_TilingProblem.cpp">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="008_GoldMine.cpp">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="009_CoinChange.cpp">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="010_FriendsPairing.cpp">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="011_SubsetSum.cpp">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="012_SubsetSumOSum.cpp">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="FindIndex.cpp">
+      <Filter>Source Files\Interview</Filter>
+    </ClCompile>
+    <ClCompile Include="FireTick.cpp">
+      <Filter>Source Files\Interview</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxValue.cpp">
+      <Filter>Source Files\Interview</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DPBase.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="c++std.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DPAll.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="001_UglyNumbers.h">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="002_Fibonacci.h">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="003_Catalan.h">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="004_BellNumbers.h">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="005_BinomialCoefficient.h">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="006_PermutationCoefficient.h">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="007_TilingProblem.h">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="008_GoldMine.h">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="009_CoinChange.h">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="010_FriendsPairing.h">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="011_SubsetSum.h">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="012_SubsetSumOSum.h">
+      <Filter>Source Files\Problems\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="FindIndex.h">
+      <Filter>Source Files\Interview</Filter>
+    </ClInclude>
+    <ClInclude Include="FireTick.h">
+      <Filter>Source Files\Interview</Filter>
+    </ClInclude>
+    <ClInclude Include="MaxValue.h">
+      <Filter>Source Files\Interview</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,18 @@
+#pragma once
+#include "DPBase.h"
+
+#include "001_UglyNumbers.h"
+#include "002_Fibonacci.h"
+#include "003_Catalan.h"
+#include "004_BellNumbers.h"
+#include "005_BinomialCoefficient.h"
+#include "006_PermutationCoefficient.h"
+#include "007_TilingProblem.h"
+#include "008_GoldMine.h"
+#include "009_CoinChange.h"
+#include "010_FriendsPairing.h"
+#include "011_SubsetSum.h"
+#include "012_SubsetSumOSum.h"
+#include "MaxValue.h"
+#include "FindIndex.h"
+#include "FireTick.h"
